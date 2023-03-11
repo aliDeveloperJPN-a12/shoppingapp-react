@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "55dc2c7f99e185585d65",
+    "revision": "a95a77c2be73af578c33",
     "url": "/shoppingapp-react/static/css/main.72c6c19c.chunk.css"
   },
   {
-    "revision": "55dc2c7f99e185585d65",
-    "url": "/shoppingapp-react/static/js/main.55dc2c7f.chunk.js"
+    "revision": "a95a77c2be73af578c33",
+    "url": "/shoppingapp-react/static/js/main.a95a77c2.chunk.js"
   },
   {
     "revision": "6e4c421a53937c5281bd",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/shoppingapp-react/static/media/ali ghane fard.3f5d8d5b.jpg"
   },
   {
-    "revision": "4c75bd6db5c24a844b7f3554c454c02a",
+    "revision": "0822fd969ef3e8facb399ac88add29de",
     "url": "/shoppingapp-react/index.html"
   }
 ];
