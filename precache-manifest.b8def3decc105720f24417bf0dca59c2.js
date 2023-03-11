@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/shoppingapp-react/static/media/ali ghane fard.3f5d8d5b.jpg"
   },
   {
-    "revision": "dd05527ca18cde225ddb95f042b327d1",
+    "revision": "5171e406db0a0f150dcd84bf1a624ef5",
     "url": "/shoppingapp-react/index.html"
   }
 ];
