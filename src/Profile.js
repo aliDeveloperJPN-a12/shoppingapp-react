@@ -7,7 +7,6 @@ function Profile() {
       <div>
         <meta charSet="UTF-8" />
         <title>Profile Image hover effect</title>
-        <link rel="stylesheet" href="style.css" />
         {/* ------------ Font awesome CDN link ------------------ */}
         <link
           rel="stylesheet"
